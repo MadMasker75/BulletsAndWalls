@@ -10,9 +10,11 @@ function setup() {
   wall = createSprite(1200,200,thickness,height/2);
   wall.shapeColor=color(80,80,80);
   
-speed=Random(223,321);
-weight=Random(30,52);
-thickness=random(22,83)
+speed=random(223,321)
+  weight=random(30,52)
+
+
+  thickness=random(22,83)
 
 }
 
